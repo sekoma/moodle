@@ -1,10 +1,5 @@
 {
-    "name": "moodle/moodle",
-    "license": "GPL-3.0",
-    "description": "Moodle - the world's open source learning platform",
-    "type": "project",
-    "homepage": "https://moodle.org",
-  
+
 
     "require": {
         "php": "^6.4.0",
