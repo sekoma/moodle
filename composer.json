@@ -1,12 +1,1 @@
-{
-
-
-    "require": {
-        "php": "^6.4.0",
-         "phpunit/dbUnit": "^3.0.0",
-        "moodlehq/behat-extension": "^3.34.0",
-        "mikey179/vfsStream": "^1.6"
-      }
- 
-}
 
