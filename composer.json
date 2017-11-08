@@ -11,7 +11,9 @@
         "mikey179/vfsStream": "^1.6"
     }
 
-  "require": {
+ 
+}
+
+"require": {
     "php": "^6.4.0"
   }
-}
